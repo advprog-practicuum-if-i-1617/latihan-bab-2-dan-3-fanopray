@@ -6,6 +6,7 @@ public class main {
         Scanner onit = new Scanner (System.in); 
         int pilihan;
         do{
+
              System.out.println("Menu :");
              System.out.println("1. angka->teks");
              System.out.println("2. teks->angka");
